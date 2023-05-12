@@ -1,0 +1,9 @@
+{
+    "typescript.validate.enable": true,
+    "javascript.validate.enable": false,
+    "eslint.validate": [
+      "javascript",
+      "typescript"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+  }
